@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+}
+input[type="text"]{
+  border: 1px solid rgb(73, 73, 73) ;
+  outline: 0;
+  padding: 2px;
+}
+
+button{
+    color: white;
+    background: rgb(73, 73, 73);
+    border: 2px solid rgb(73, 73, 73);
+}
+
+button:hover{
+    background: rgb(58, 58, 58);
+    cursor: pointer;
+}
